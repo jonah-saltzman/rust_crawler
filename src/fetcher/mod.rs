@@ -1,5 +1,4 @@
 use reqwest;
-// use tokio;
 use url::{ParseError, Url};
 use anyhow::{Result, Context};
 pub struct URL {
